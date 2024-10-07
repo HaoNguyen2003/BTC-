@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\C#\Tuple\Tuple\bin\Debug\net6.0\Tuplenew.exe
+C:\Users\PC\Desktop\C#\Tuple\Tuple\bin\Debug\net6.0\Tuplenew.deps.json
+C:\Users\PC\Desktop\C#\Tuple\Tuple\bin\Debug\net6.0\Tuplenew.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Tuple\Tuple\bin\Debug\net6.0\Tuplenew.dll
+C:\Users\PC\Desktop\C#\Tuple\Tuple\bin\Debug\net6.0\Tuplenew.pdb
+C:\Users\PC\Desktop\C#\Tuple\Tuple\obj\Debug\net6.0\Tuplenew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\Tuple\Tuple\obj\Debug\net6.0\Tuplenew.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Tuple\Tuple\obj\Debug\net6.0\Tuplenew.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Tuple\Tuple\obj\Debug\net6.0\Tuplenew.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\Tuple\Tuple\obj\Debug\net6.0\Tuplenew.dll
+C:\Users\PC\Desktop\C#\Tuple\Tuple\obj\Debug\net6.0\refint\Tuplenew.dll
+C:\Users\PC\Desktop\C#\Tuple\Tuple\obj\Debug\net6.0\Tuplenew.pdb
+C:\Users\PC\Desktop\C#\Tuple\Tuple\obj\Debug\net6.0\Tuplenew.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\Tuple\Tuple\obj\Debug\net6.0\ref\Tuplenew.dll

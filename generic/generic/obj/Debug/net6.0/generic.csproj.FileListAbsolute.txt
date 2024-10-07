@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\C#\generic\generic\bin\Debug\net6.0\generic.exe
+C:\Users\PC\Desktop\C#\generic\generic\bin\Debug\net6.0\generic.deps.json
+C:\Users\PC\Desktop\C#\generic\generic\bin\Debug\net6.0\generic.runtimeconfig.json
+C:\Users\PC\Desktop\C#\generic\generic\bin\Debug\net6.0\generic.dll
+C:\Users\PC\Desktop\C#\generic\generic\bin\Debug\net6.0\generic.pdb
+C:\Users\PC\Desktop\C#\generic\generic\obj\Debug\net6.0\generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\generic\generic\obj\Debug\net6.0\generic.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\generic\generic\obj\Debug\net6.0\generic.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\generic\generic\obj\Debug\net6.0\generic.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\generic\generic\obj\Debug\net6.0\generic.dll
+C:\Users\PC\Desktop\C#\generic\generic\obj\Debug\net6.0\refint\generic.dll
+C:\Users\PC\Desktop\C#\generic\generic\obj\Debug\net6.0\generic.pdb
+C:\Users\PC\Desktop\C#\generic\generic\obj\Debug\net6.0\generic.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\generic\generic\obj\Debug\net6.0\ref\generic.dll

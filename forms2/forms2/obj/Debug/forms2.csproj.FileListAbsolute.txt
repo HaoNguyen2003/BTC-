@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\C#\forms2\forms2\bin\Debug\forms2.exe.config
+C:\Users\PC\Desktop\C#\forms2\forms2\bin\Debug\forms2.exe
+C:\Users\PC\Desktop\C#\forms2\forms2\bin\Debug\forms2.pdb
+C:\Users\PC\Desktop\C#\forms2\forms2\obj\Debug\forms2.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\forms2\forms2\obj\Debug\forms2.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\forms2\forms2\obj\Debug\forms2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\forms2\forms2\obj\Debug\forms2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\forms2\forms2\obj\Debug\forms2.exe
+C:\Users\PC\Desktop\C#\forms2\forms2\obj\Debug\forms2.pdb
+C:\Users\PC\Desktop\C#\forms2\forms2\obj\Debug\forms2.fcmm.resources

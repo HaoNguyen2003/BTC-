@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\bin\Debug\net6.0\eventheodonet.exe
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\bin\Debug\net6.0\eventheodonet.deps.json
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\bin\Debug\net6.0\eventheodonet.runtimeconfig.json
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\bin\Debug\net6.0\eventheodonet.dll
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\bin\Debug\net6.0\eventheodonet.pdb
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\obj\Debug\net6.0\eventheodonet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\obj\Debug\net6.0\eventheodonet.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\obj\Debug\net6.0\eventheodonet.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\obj\Debug\net6.0\eventheodonet.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\obj\Debug\net6.0\eventheodonet.dll
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\obj\Debug\net6.0\refint\eventheodonet.dll
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\obj\Debug\net6.0\eventheodonet.pdb
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\obj\Debug\net6.0\eventheodonet.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\eventheodonet\eventheodonet\obj\Debug\net6.0\ref\eventheodonet.dll

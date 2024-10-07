@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="datacoffee">
+  <DataContextMoniker Name="/datacoffeeDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b38cbf1b-4440-4c42-9948-7e91a865a781" absoluteBounds="0.5, 0.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/datacoffeeDataContext/coffee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a902b1aa-d3ca-4f5e-94da-7f0759d58ceb" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

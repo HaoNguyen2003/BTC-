@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLCF" Class="datacoffeeDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-VV85LA6\TINGHOW;Initial Catalog=QLCF;Persist Security Info=True;User ID=sa" SettingsObjectName="managercoffee.Properties.Settings" SettingsPropertyName="QLCFConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.coffee" Member="coffees">
+    <Type Name="coffee">
+      <Column Name="id" Type="System.String" DbType="NVarChar(500) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="taste" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="expire_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="smell" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="production_place" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="img" Type="System.String" DbType="NVarChar(500) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\C#\managercoffee\managercoffee\obj\Debug\managercoffee.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\managercoffee\managercoffee\obj\Debug\managercoffee.Form1.resources
+C:\Users\PC\Desktop\C#\managercoffee\managercoffee\obj\Debug\managercoffee.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\managercoffee\managercoffee\obj\Debug\managercoffee.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\managercoffee\managercoffee\obj\Debug\managercoffee.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\managercoffee\managercoffee\bin\Debug\managercoffee.exe.config
+C:\Users\PC\Desktop\C#\managercoffee\managercoffee\bin\Debug\managercoffee.exe
+C:\Users\PC\Desktop\C#\managercoffee\managercoffee\bin\Debug\managercoffee.pdb
+C:\Users\PC\Desktop\C#\managercoffee\managercoffee\obj\Debug\managercoffee.exe
+C:\Users\PC\Desktop\C#\managercoffee\managercoffee\obj\Debug\managercoffee.pdb

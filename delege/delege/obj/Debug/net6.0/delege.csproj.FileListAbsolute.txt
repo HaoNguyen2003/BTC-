@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\C#\delege\delege\bin\Debug\net6.0\delege.exe
+C:\Users\PC\Desktop\C#\delege\delege\bin\Debug\net6.0\delege.deps.json
+C:\Users\PC\Desktop\C#\delege\delege\bin\Debug\net6.0\delege.runtimeconfig.json
+C:\Users\PC\Desktop\C#\delege\delege\bin\Debug\net6.0\delege.dll
+C:\Users\PC\Desktop\C#\delege\delege\bin\Debug\net6.0\delege.pdb
+C:\Users\PC\Desktop\C#\delege\delege\obj\Debug\net6.0\delege.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\delege\delege\obj\Debug\net6.0\delege.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\delege\delege\obj\Debug\net6.0\delege.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\delege\delege\obj\Debug\net6.0\delege.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\delege\delege\obj\Debug\net6.0\delege.dll
+C:\Users\PC\Desktop\C#\delege\delege\obj\Debug\net6.0\refint\delege.dll
+C:\Users\PC\Desktop\C#\delege\delege\obj\Debug\net6.0\delege.pdb
+C:\Users\PC\Desktop\C#\delege\delege\obj\Debug\net6.0\delege.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\delege\delege\obj\Debug\net6.0\ref\delege.dll

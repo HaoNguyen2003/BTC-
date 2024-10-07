@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\C#\event\event\bin\Debug\net6.0\eventCsharp.exe
+C:\Users\PC\Desktop\C#\event\event\bin\Debug\net6.0\eventCsharp.deps.json
+C:\Users\PC\Desktop\C#\event\event\bin\Debug\net6.0\eventCsharp.runtimeconfig.json
+C:\Users\PC\Desktop\C#\event\event\bin\Debug\net6.0\eventCsharp.dll
+C:\Users\PC\Desktop\C#\event\event\bin\Debug\net6.0\eventCsharp.pdb
+C:\Users\PC\Desktop\C#\event\event\obj\Debug\net6.0\eventCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\event\event\obj\Debug\net6.0\eventCsharp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\event\event\obj\Debug\net6.0\eventCsharp.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\event\event\obj\Debug\net6.0\eventCsharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\event\event\obj\Debug\net6.0\eventCsharp.dll
+C:\Users\PC\Desktop\C#\event\event\obj\Debug\net6.0\refint\eventCsharp.dll
+C:\Users\PC\Desktop\C#\event\event\obj\Debug\net6.0\eventCsharp.pdb
+C:\Users\PC\Desktop\C#\event\event\obj\Debug\net6.0\eventCsharp.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\event\event\obj\Debug\net6.0\ref\eventCsharp.dll
